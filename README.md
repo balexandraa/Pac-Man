@@ -8,7 +8,7 @@ This repository contains my solutions to the Pac-Man AI project from UC Berkeley
 In this part of the project, I implemented various search algorithms to help Pac-Man navigate the maze. The algorithms include:
 - **Breadth-First Search (BFS)**
 - **Depth-First Search (DFS)**
-- **`A* Search`**
+- **A\* Search** 
 - **Greedy Best-First Search**
 - **Uniform Cost Search**
 
